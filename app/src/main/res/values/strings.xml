@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">TakePicture</string>
+    <string name="no_take_photo">Brak obsługi robienia zdjęć.</string>
+</resources>
